@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm SAYED FADHEL JAFFAR ALI  
 
-<!--
-**sfad/sfad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- Electronic Instructor in Technical Education  
+- Passionate about Mobile & Web Development  
+- Exploring the world of IoT  
 
-Here are some ideas to get you started:
+## Tech Stack  
+- Programming: C, C#, C++, JavaScript, TypeScript, Dart  
+- Web & Mobile: Frontend & Backend Development  
+- IoT & Embedded Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me  
+- GitHub: https://github.com/sfad
+- Email: sfad (dot) net (at) gmail (dot) com
+
+Always learning and building new projects!  
